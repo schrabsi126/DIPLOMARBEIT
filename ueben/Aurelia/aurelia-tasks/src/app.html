@@ -1,0 +1,47 @@
+<template>
+  <div show.bind="false">
+
+  <div>
+    Value Bind
+    <input value.bind="firstName">
+    <button click.trigger="greetMe()">Greet!</button>
+  </div>
+
+  <div>
+    Check Bind
+    <input type="checkbox" checked.bind="isChecked">
+    ${isChecked ? 'True':'False'}
+  </div>
+
+  <div>
+    Focus Bind
+    <input focus.bind="isFocus">
+    ${isFocus ? 'True':'False'}
+  </div>
+
+  <div>
+    With Bind
+    <div with.bind="age">
+      Age:<input type="text" value.bind="theValue">
+    </div>
+    <div with.bind="colour">
+      Colour:<input type="text" value.bind="theValue">
+    </div>
+  </div>
+  </div>
+
+  Show Message:
+  <input type="checkbox" checked.bind="enableMessage">
+
+  <div if.bind="enableMessage">
+    "If Bind" Conditional has been Triggered
+    <br>
+    Element will be Collapsed
+  </div>
+
+  <div if.bind="enableMessage">
+    "Show Show" Conditional has been Triggered
+    <br>
+    Element will be Hidden
+  </div>
+</template>

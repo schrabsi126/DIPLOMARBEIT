@@ -1,0 +1,24 @@
+_________________________________________Start with Homestead and Vagrant_____________________________________
+
+https://www.youtube.com/watch?v=0AKMvpbMoH0
+https://www.youtube.com/watch?v=YuvHbC3aBaA
+https://www.youtube.com/watch?v=52j2r9oXKJw --> Zugriff auf datenbank von Homestead auf locale Maschine mit Sequel Pro
+https://www.pascallandau.com/blog/laravel-with-phpunit-on-vagrant-in-phpstorm/ -->aufsetzten mit PHP Storm
+
+https://www.pascallandau.com/blog/laravel-with-phpunit-on-vagrant-in-phpstorm/ <---------------BESTE
+
+--> für ssh problem
+https://stackoverflow.com/questions/44463987/homestead-installation#
+
+
+--> 'no input file specified' error
+https://stackoverflow.com/questions/24274387/using-laravel-homestead-no-input-file-specified
+
+
+_______________________________________Laravel_________________________________________________________________
+https://laracasts.com/series/laravel-from-scratch-2017/episodes/1
+https://laracasts.com/series/laravel-from-scratch-2017/episodes/2
+
+---------------------RESTful API---------------
+https://www.toptal.com/laravel/restful-laravel-api-tutorial
+
