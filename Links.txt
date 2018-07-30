@@ -1,0 +1,5 @@
+--Angular IDE selection and Extentions for VS Code
+https://stackoverflow.com/questions/40840317/angular2-how-to-start-and-with-which-ide
+
+--Angular 6 Tutorial
+https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course
